@@ -1,0 +1,881 @@
+CHILD NO,SEX,Y.O.B,FAMILY STATUS,RESEDENCE,BIRTH DOSE,1ST DOSE,2ND DOSE,3RD DOSE,VIT A,MR 1,MR 2
+1,female,Dec-19,2,mulunduni,2,4,4,4,1,1,0
+2,female,Jan-20,2,unyaa,2,4,4,4,1,1,0
+3,male,Jan-20,2,kwa vonza,2,4,4,4,0,1,0
+4,male,Jun-19,1,kwa vonza,0,4,4,4,1,1,1
+5,male,Jul-20,2,ndumoni,2,4,4,4,1,1,1
+6,male,Jul-20,2,ndumoni,2,4,4,4,0,0,0
+7,female,Jul-20,2,masimba,2,4,4,4,1,1,0
+8,male,Aug-20,2,kyamathyaka,2,4,4,4,1,0,0
+9,male,Aug-20,2,syongila,2,4,4,4,0,0,0
+10,female,Sep-20,2,matinyani,2,4,4,4,0,0,0
+11,female,Sep-20,2,unyaa,1,4,3,4,0,0,0
+12,male,Jul-20,2,matinyani,2,4,4,4,0,0,0
+13,male,Aug-20,2,matinyani,2,4,4,4,0,0,0
+14,female,Feb-20,2,kyamathyaka,2,1,1,1,0,1,0
+15,male,Jul-20,2,kwa vonza,2,4,4,4,0,1,0
+16,male,Nov-20,2,kyamathyaka,2,0,0,0,0,0,0
+17,male,Sep-20,1,kitukuni,2,4,4,4,0,1,1
+18,female,Aug-20,2,kitui,2,4,4,0,0,1,1
+19,male,Apr-19,2,tanganyika,2,4,4,4,1,1,1
+20,female,Jul-20,2,kwa vonza,2,4,4,4,0,0,0
+21,female,Aug-20,2,kwa masese,2,4,4,4,0,0,0
+22,male,Apr-19,2,kwa mulungu,2,1,1,1,1,0,1
+23,female,Sep-19,2,kwa mulungu,1,4,4,4,0,0,0
+24,female,Nov-20,1,kyamathyaka,2,0,0,0,0,0,0
+25,male,Sep-20,1,kyamathyaka,2,4,0,0,0,0,0
+26,male,Aug-20,2,kwa mumo,2,4,4,4,1,1,0
+27,male,Feb-20,2,mbavai,2,4,4,4,0,1,0
+28,male,Feb-20,2,unyaa,2,4,4,4,0,1,0
+29,male,Dec-19,2,mulutu,2,4,4,4,0,1,1
+30,male,Mar-19,2,ndumoni,2,4,4,4,0,0,0
+31,female,Oct-20,2,mbusyani,2,4,4,4,0,0,0
+32,female,Mar-20,2,kiliko,2,4,4,4,0,1,0
+33,male,Nov-20,1,kwa vonza,1,0,3,3,0,0,0
+34,male,Oct-20,2,kalimani,2,4,4,4,0,0,0
+35,male,Aug-20,2,matinyani,2,4,4,4,0,0,0
+36,female,Aug-20,2,mulutu,2,4,4,4,0,1,0
+37,female,Sep-20,2,kwa mutonga ,2,4,4,4,0,1,1
+38,female,Aug-20,2,kalundu,2,4,4,4,0,0,0
+39,female,Oct-20,2,mulutu,2,4,4,4,0,0,0
+40,female,Aug-20,2,kwa vonza,2,4,4,4,0,0,0
+41,female,Aug-20,1,mulutu,2,4,4,4,0,0,0
+42,female,Aug-20,2,matinyani,2,4,4,4,0,0,0
+43,male,Aug-20,2,mulutu ,2,4,4,4,1,1,0
+44,female,Jul-20,2,mulutu,2,4,4,4,0,0,0
+45,male,Mar-20,2,mathunzini,2,4,4,4,1,1,0
+46,male,Mar-19,2,kyamathyaka,2,4,4,4,1,1,1
+47,male,Sep-20,2,ngengeka,2,4,4,4,0,0,0
+48,female,Sep-20,2,kwa vonza,2,4,4,4,1,1,0
+49,male,Feb-20,1,kwa vonza,2,4,4,4,1,1,0
+50,male,May-19,2,syongila,2,4,4,4,1,1,1
+51,male,Mar-19,2,ithiani,2,4,4,4,1,1,1
+52,male,May-19,2,kwa mumo,2,4,4,4,1,1,1
+53,male,May-19,2,kwa mumo,2,4,4,4,1,1,1
+54,male,Nov-20,2,kwa vonza,2,4,4,0,0,0,0
+55,female,Jul-20,2,mulutu,2,4,4,4,0,0,0
+56,male,Apr-19,2,kitui,2,4,4,4,0,1,1
+57,male,Aug-20,2,tiva,2,4,4,3,0,0,0
+58,female,May-19,2,tanganyika,2,4,4,4,0,1,1
+59,male,May-19,2,kwa vonza,2,4,4,4,0,1,1
+60,male,Jan-20,2,kwa vonza,2,4,4,4,0,1,0
+61,female,Mar-20,1,kyamathyaka,2,4,4,4,0,1,1
+62,male,Jul-20,1,kalimani,2,4,4,4,0,0,0
+63,female,Aug-20,2,kwa vonza,0,4,4,4,0,0,0
+64,female,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+65,male,Feb-20,2,kwa vonza,2,4,4,4,0,1,0
+66,male,Jul-20,2,kwa vonza,2,4,4,4,0,0,0
+67,male,Mar-19,2,mulutu,2,4,4,4,0,1,1
+68,male,Jul-20,2,sokomoko,2,4,4,4,0,0,0
+69,female,Jul-20,2,matinyani,2,4,4,4,0,0,0
+70,female,Aug-20,2,unyaa,2,4,4,4,0,0,0
+71,male,Oct-20,2,kaveta,2,4,4,4,0,0,0
+72,male,May-19,2,kwa vonza,2,4,4,4,0,1,1
+73,male,Oct-20,2,kwa vonza,2,4,4,4,0,1,0
+74,female,May-19,2,tanganyika,2,4,4,4,0,1,1
+75,female,Oct-20,2,matinyani,1,4,4,4,0,0,0
+76,female,Jul-20,2,matinyani,2,4,4,4,0,0,0
+77,male,Jan-20,2,kalibevo,2,4,4,4,0,1,1
+78,female,Mar-20,1,kwa vonza,1,4,4,4,0,1,0
+79,male,Oct-20,2,isaangwa,2,4,4,4,0,0,0
+80,female,Aug-20,2,tanganyika,1,4,4,4,0,0,0
+81,male,Aug-20,2,ngoleni,2,4,4,4,0,0,0
+82,male,Aug-20,2,mulutu,2,4,4,4,1,1,0
+83,male,Jul-20,2,mathunzini,2,4,4,4,0,0,0
+84,male,Oct-20,2,ngoleni,2,4,4,4,0,0,0
+85,female,May-19,1,syongila,2,4,4,4,0,1,1
+86,female,May-19,1,syongila,2,4,4,4,0,1,1
+87,female,Nov-20,2,kwa vonza,2,4,0,0,0,0,0
+88,female,Nov-20,2,kwa mutonga ,2,4,4,0,0,0,0
+89,female,Sep-20,2,kwa vonza,2,4,4,4,1,1,0
+90,male,May-19,1,kisasi,2,4,4,4,0,1,1
+91,female,Mar-20,2,ngoleni,2,4,4,4,0,1,0
+92,male,Mar-20,2,matinyani,2,4,4,4,0,1,0
+93,male,Nov-20,2,ngoleni,2,4,4,4,0,1,1
+94,female,Sep-20,2,mulutu,2,4,4,4,1,1,0
+95,female,Nov-20,2,kaveta,2,0,0,0,0,0,0
+96,male,Jul-20,2,mulutu,2,4,4,4,0,0,0
+97,female,Feb-20,2,unyaa,2,4,4,4,1,1,0
+98,male,Feb-20,2,matinyani,2,4,4,4,0,1,0
+99,male,Mar-20,2,mulutu,2,4,4,4,0,1,0
+100,male,Jul-20,2,tiva,2,4,4,4,0,0,0
+101,female,May-20,2,matinyani,2,1,1,1,0,1,0
+102,female,May-20,2,matinyani,2,1,1,1,0,1,0
+103,male,Feb-20,2,mulutu,2,4,4,4,0,1,0
+104,female,Aug-20,1,ndumoni,2,4,4,4,1,1,1
+105,female,Sep-20,1,kwa vonza,2,4,4,4,1,0,0
+106,female,Mar-20,2,unyaa,1,4,4,4,0,1,0
+107,male,Jun-19,2,ithokwe,2,4,4,4,0,1,0
+108,male,Aug-20,2,isaangwa,2,4,4,4,1,1,0
+109,female,May-20,2,kwa vonza,2,4,4,4,0,1,1
+110,male,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+111,female,Oct-20,2,kwa vonza,2,4,4,4,0,1,1
+112,female,Aug-20,2,tiva,2,4,4,4,1,1,0
+113,male,Aug-20,2,kwa vonza,2,4,4,4,0,0,0
+114,female,Aug-20,2,syongila,2,4,4,4,0,0,0
+115,male,Aug-20,2,kwa vonza,2,4,4,4,0,1,1
+116,female,Aug-20,2,mulutu,2,4,4,4,0,0,0
+117,female,Oct-19,2,mulutu,2,4,4,4,0,0,1
+118,male,Apr-20,1,mataka,2,4,4,4,0,1,0
+119,female,Aug-20,2,matinyani,2,4,4,4,1,1,0
+120,male,Oct-20,2,kakumi,2,4,4,4,1,1,1
+121,male,Sep-20,2,kyumbani,2,4,4,4,0,0,0
+122,female,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+123,female,Sep-20,1,kwa vona,2,4,4,4,0,0,0
+124,female,Jun-19,2,kwa vonza,2,4,4,4,0,0,1
+125,female,Aug-20,2,kitui,2,4,4,4,1,1,1
+126,female,Aug-20,2,mulutu,2,4,4,4,1,1,0
+127,female,Mar-20,2,unyaa,2,4,4,4,0,1,1
+128,male,Jul-20,2,kwa mulungu,2,4,4,4,0,1,0
+129,female,Feb-20,1,mulutu,2,4,4,4,1,1,0
+130,male,Oct-20,2,mathunzini ,2,4,4,4,0,0,0
+131,female,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+132,female,Jan-19,2,tungutu,2,4,4,4,0,1,1
+133,male,Mar-20,1,kyamathyaka,2,4,4,4,0,1,0
+134,female,Jul-19,2,kwa mulungu,1,4,4,4,0,1,1
+135,female,Nov-20,1,syongila,2,4,4,4,0,0,0
+136,female,Nov-20,2,kwa mulungu,2,4,0,0,0,0,0
+137,female,Sep-20,2,matinyani,2,4,4,0,0,0,0
+138,male,Dec-20,2,kwa vonza,2,4,4,4,0,1,1
+139,female,Dec-20,2,ndumoni,2,4,4,4,0,1,1
+140,male,Aug-20,2,itoleka,2,4,4,4,0,0,0
+141,male,Mar-20,2,kyamathyaka,2,4,4,4,0,1,0
+142,female,Aug-20,2,kathivo,2,4,4,4,0,0,0
+143,male,Oct-20,1,matinyani,2,4,4,4,0,0,0
+144,female,Nov-20,1,mulutu,2,4,4,4,0,0,0
+145,female,Sep-20,1,kyamathyaka,2,4,4,4,0,0,0
+146,female,Aug-20,2,kwa vonza,2,4,1,2,0,0,0
+147,male,Sep-20,2,itoleka,2,2,2,0,0,0,0
+148,male,Aug-20,2,kyamathyaka,2,2,2,2,0,0,0
+149,female,Sep-20,2,kwa vonza,2,3,3,3,0,0,0
+150,male,Aug-20,2,kyamathyaka,2,4,4,4,0,0,0
+151,female,Sep-20,2,kyamathyaka,2,4,4,4,0,0,0
+152,male,Oct-20,2,matinyani,2,4,4,0,0,0,0
+153,male,Oct-20,2,kwa vonza,2,4,4,0,0,0,0
+154,male,Oct-20,2,matinyani,2,4,4,0,0,0,0
+155,male,Sep-20,2,kwa mulungu,2,4,4,0,0,0,0
+156,female,Oct-20,2,kwa vonza,2,4,4,4,0,0,0
+157,male,Aug-20,1,masimbani,2,4,4,4,1,1,1
+158,female,Jun-20,2,kwa vonza,2,4,4,4,0,1,1
+159,female,Dec-20,2,syokithumbi,1,4,4,4,0,0,0
+160,female,Oct-20,2,kwa mulungu,2,4,4,4,1,1,1
+161,male,Sep-20,2,itoleka,2,4,4,4,0,0,0
+162,male,Oct-20,1,kwa mulungu,2,4,4,4,0,0,0
+163,male,Mar-20,2,ithookwe,2,4,4,4,0,0,0
+164,female,Nov-20,2,kwa mulungu,2,4,4,4,0,0,0
+165,female,Sep-20,2,kwa mulungu,2,4,4,4,0,0,0
+166,female,Oct-20,2,kyambusya,2,4,4,4,0,0,0
+167,female,Jun-20,2,kakuuni,2,4,4,4,0,0,1
+168,male,Jun-19,2,mulutu,2,4,4,4,0,1,1
+169,female,Aug-20,2,kwa mutonga ,2,4,4,4,0,0,0
+170,female,Dec-20,2,kwa vonza,2,4,4,4,0,1,1
+171,female,Nov-20,2,unyaa,2,4,4,4,0,0,0
+172,male,Oct-20,2,unyaa,2,4,4,4,0,0,0
+173,male,Nov-20,2,kwa vonza,2,4,4,4,0,0,0
+174,female,Jun-19,2,syongila,2,4,4,4,0,1,1
+175,female,Dec-20,2,maluma,2,4,4,0,0,0,0
+176,male,Nov-20,1,kwa vonza,2,4,4,0,0,0,0
+177,male,Oct-20,1,ilooi,2,4,4,0,0,0,0
+178,female,Oct-20,2,kithunzi,2,4,4,4,0,0,0
+179,female,Oct-20,2,kithelelu,2,4,4,4,0,0,0
+180,male,Dec-20,2,kwa vonza,2,4,4,4,0,0,0
+181,female,Sep-20,2,mulutu,2,4,4,4,0,0,0
+182,female,Dec-20,2,kwa vonza,2,4,4,4,0,0,0
+183,female,Oct-20,2,mukuyuni,2,4,4,0,0,1,1
+184,male,Nov-20,2,mulutu,2,4,4,0,0,0,0
+185,female,Dec-20,2,kwa vonza,2,4,4,4,1,1,1
+186,female,Nov-20,2,syongila,2,4,4,0,0,0,0
+187,female,Oct-20,2,itoleka,2,4,4,0,0,0,0
+188,male,Oct-20,2,ndumoni,2,4,4,0,0,0,0
+189,male,Sep-20,2,syongila,1,1,1,3,0,0,0
+190,female,Aug-20,2,matinyani,2,4,4,4,0,0,0
+191,female,Aug-20,1,matinyani,2,4,4,4,0,0,0
+192,female,Aug-20,2,kwa mulungu,2,4,4,4,0,0,0
+193,female,Oct-20,2,kwa vonza,2,4,4,4,0,0,0
+194,female,Sep-20,2,mulutu,2,4,4,4,0,0,0
+195,female,Jun-20,2,mulutu,1,4,4,4,0,1,1
+196,female,Oct-20,2,matinyani,2,4,4,4,0,0,0
+197,male,Sep-20,2,ikutha,2,4,4,4,0,0,0
+198,female,Oct-20,2,ndunguni,2,4,4,4,0,0,0
+199,male,Dec-20,2,kaveta,2,0,0,0,0,0,0
+200,male,Oct-20,2,kyusyani,2,4,4,4,0,0,0
+201,female,Dec-20,2,matunyani,2,4,4,4,0,1,1
+202,male,Sep-20,2,itoleka,2,4,4,4,0,0,0
+203,male,Sep-20,2,kwa vonza,2,4,4,4,0,1,1
+204,male,Dec-20,2,kabati,2,4,4,4,0,0,0
+205,female,Jun-20,2,kalimani,2,4,4,4,0,0,0
+206,male,Sep-20,2,kwa vonza,2,1,1,2,0,0,0
+207,male,Nov-20,2,syokithumbi,2,4,4,4,1,1,1
+208,male,Sep-20,2,kavuta,2,1,1,1,0,0,0
+209,female,Nov-20,2,mangina,2,4,0,0,0,0,0
+210,male,Mar-20,2,syomuitu,2,4,4,4,0,0,0
+211,male,Mar-20,2,matinyani,2,4,4,4,0,0,0
+212,male,Nov-20,2,matinyani,1,4,4,4,0,0,0
+213,male,Nov-20,2,tiva,2,4,4,0,0,0,0
+214,female,Dec-20,2,matinyani,2,4,0,0,0,0,0
+215,female,Oct-20,1,kwa vonza,2,4,4,4,0,1,1
+216,female,Dec-20,2,kwa vonza,2,4,4,4,0,1,1
+217,female,Nov-20,2,itoleka,1,4,0,0,0,0,0
+218,male,Mar-20,2,tiva,2,4,4,4,0,1,0
+219,female,Jun-20,1,kwa mulungu,2,4,4,4,0,1,0
+220,male,Jan-20,2,kwa vonza,2,4,4,4,0,1,0
+221,female,Jan-20,2,syongila,2,4,0,0,0,0,0
+222,female,Oct-20,2,kyusyani,2,4,4,0,0,0,0
+223,female,Nov-20,2,itoleka,2,4,4,0,0,0,0
+224,male,Nov-20,2,itoleka,2,4,4,0,0,0,0
+225,male,Oct-20,2,kwa vonza,2,4,4,0,0,0,0
+226,female,Dec-20,2,kyamathyaka,2,4,4,4,0,0,0
+227,male,Dec-20,2,ngengeka,1,4,4,0,0,0,0
+228,male,Dec-20,2,kyusyani,2,4,0,0,0,0,0
+229,male,Dec-20,2,kwa vonza,2,4,4,4,0,1,1
+230,female,Dec-20,1,kwa vonza,2,4,4,0,0,0,0
+231,female,Sep-20,2,itoleka,2,4,4,4,0,0,0
+232,male,Jun-19,2,unyaa,2,4,4,4,1,1,1
+233,male,Sep-20,2,kisilo,2,4,4,4,0,0,0
+234,female,Mar-20,2,tanganyika,2,4,4,4,1,1,0
+235,female,Dec-20,2,matinyani,2,4,4,4,0,1,1
+236,male,Nov-20,1,mutito adoa,2,4,4,4,0,0,0
+237,female,Oct-20,2,chengoni,2,4,4,4,0,0,1
+238,male,Oct-20,2,kwa vonza,2,4,4,0,0,0,0
+239,male,Oct-20,1,kwa mulungu,2,4,4,4,0,0,0
+240,female,May-20,2,syomuitu,2,4,4,4,0,1,0
+241,male,Dec-20,1,musisina,2,4,4,4,0,1,1
+242,male,Dec-20,2,itoleka,2,0,0,0,0,0,0
+243,female,Dec-20,2,mulutu,2,4,4,4,0,0,0
+244,female,Dec-20,2,kyamathyaka,1,4,4,0,0,1,1
+245,male,Mar-20,2,kyamathyaka,2,4,4,4,1,1,0
+246,female,Oct-20,2,ndumoni,2,4,4,4,0,0,0
+247,male,Sep-20,2,mathunzini,2,1,1,1,0,0,0
+248,male,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+249,female,Sep-20,2,kyamathyaka,2,4,4,4,0,0,0
+250,female,Nov-20,2,ithaa,2,4,0,0,0,0,0
+251,male,Nov-20,2,kaveta,2,4,4,4,0,0,0
+252,female,Nov-20,1,kyamathyaka,2,4,4,4,0,0,0
+253,female,Jan-20,2,kwa vonza,2,0,0,0,0,0,0
+254,female,Nov-20,1,kitui,2,4,0,0,0,0,0
+255,male,Mar-19,2,kiliko,2,4,4,4,1,1,1
+256,male,Oct-20,2,kwa vonza,2,4,4,4,0,1,0
+257,male,Mar-20,2,kitui,2,4,4,4,0,1,0
+258,male,Mar-20,1,mainyani,2,4,4,4,1,1,1
+259,male,Dec-20,1,matinyani,2,4,0,0,0,0,0
+260,male,Jul-19,2,kalundu,2,4,4,4,1,1,1
+261,male,Mar-20,2,mulutu,2,4,4,4,0,1,1
+262,male,Nov-20,2,mulutu,2,4,0,0,0,0,0
+263,male,Dec-20,2,kwa vonza,2,4,0,0,0,0,0
+264,male,Nov-20,2,kwisi,2,4,0,0,0,1,1
+265,male,Sep-20,1,kyondeni,2,4,4,4,0,0,0
+266,male,Nov-20,2,kwa vonza,2,4,4,4,0,1,1
+267,male,Jan-21,2,kiliko,2,4,4,4,0,1,0
+268,female,Nov-20,2,mulutu,2,4,4,0,1,0,0
+269,male,Jan-21,2,kwa vonza,2,4,4,4,0,1,1
+270,female,Oct-21,2,kwa vonza,2,4,0,0,1,0,0
+271,male,Jan-20,2,kwa vonza,2,4,0,0,0,0,0
+272,male,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+273,female,Sep-20,2,kwa vonza,2,4,4,4,0,0,0
+274,female,Aug-20,2,kwa vonza,2,4,4,4,0,1,0
+275,female,Oct-20,2,unyaa,2,4,4,4,1,0,1
+276,male,Sep-20,2,katyotheka,1,4,4,4,0,0,0
+277,male,Sep-20,2,kiliko,2,4,4,4,0,0,0
+278,female,Nov-20,2,kwa vonza,2,1,1,2,0,1,0
+279,female,Mar-20,2,ngoleni,2,1,1,2,1,1,0
+280,female,Mar-20,1,itoleka,2,3,3,3,1,1,0
+281,male,Oct-20,2,musyani,1,4,4,0,1,0,0
+282,male,Nov-20,2,kwa vonza,2,4,4,4,0,1,1
+283,female,Jan-21,2,mulutu,2,4,4,0,1,0,0
+284,male,Apr-20,2,ngengeka,2,2,1,2,0,1,1
+285,female,Jan-21,2,unyaa,2,4,4,4,0,0,0
+286,female,Jan-21,1,kakumi,2,4,0,0,0,0,0
+287,male,Nov-20,1,mulutu,2,4,0,0,0,0,0
+288,female,Apr-20,2,kwa vonza,2,3,3,3,0,1,0
+289,male,Nov-20,1,kwa vonza,2,4,4,4,0,0,1
+290,female,Oct-20,2,syongila,2,4,4,4,0,1,0
+291,female,Mar-20,1,kwa vonza ,1,4,4,4,0,1,0
+292,male,Nov-20,2,kwa vonza,2,4,4,4,0,0,1
+293,female,Sep-20,2,kwa vonza,2,4,0,0,0,0,0
+294,female,Nov-20,2,matinyani,2,4,4,4,0,0,0
+295,female,Nov-20,1,kakumi,2,4,0,0,0,0,1
+296,male,Apr-20,2,kwa vonza,2,4,4,4,0,0,0
+297,male,Oct-20,2,kyusyani,2,4,4,4,1,1,0
+298,female,Apr-20,2,kyusyani,2,4,0,0,0,0,0
+299,female,Oct-20,2,kwa vonza,2,4,4,4,1,1,0
+300,male,Jan-21,1,kyusyani,2,0,0,0,0,0,0
+301,female,May-20,2,kathuni,2,4,4,4,1,1,0
+302,male,Nov-20,2,kaveta,1,4,0,0,0,0,0
+303,male,Nov-20,2,kakumi,2,4,0,0,0,0,0
+304,male,Nov-20,2,kyamathyaka,2,4,4,4,1,0,0
+305,male,Mar-20,2,kwa vonza,2,4,4,4,1,1,0
+306,female,Mar-20,2,unyaa,2,4,4,4,1,1,0
+307,male,Oct-20,2,ithiani,2,4,4,4,1,0,0
+308,female,Nov-20,2,mulutu,2,4,4,3,1,1,1
+309,male,Sep-20,2,kaveta,1,4,4,4,0,0,0
+310,male,May-20,2,kyamatyhaka,2,4,4,4,1,1,0
+311,male,Nov-20,2,kwa vonza,2,4,4,4,0,0,0
+312,male,Apr-20,2,unyaa,2,4,4,4,1,1,0
+313,male,Nov-20,2,kyamathyaka,2,4,4,4,0,1,1
+314,female,Oct-20,2,mulutu,2,4,4,4,0,0,0
+315,male,Sep-20,2,kitui,2,4,4,4,0,0,0
+316,male,Jan-21,2,kyusyani,2,4,4,4,0,0,0
+317,male,Jan-21,2,tungutu,2,4,0,0,0,0,0
+318,female,Nov-20,2,kwa vonza,2,4,4,4,0,1,0
+319,male,Oct-20,1,kitui,2,4,4,0,0,0,0
+320,female,Jan-21,2,mulutu,2,0,0,0,0,0,0
+321,female,Dec-20,2,ngoleni,2,4,4,4,0,0,0
+322,male,Dec-20,2,kwa vonza,2,4,4,0,0,1,0
+323,female,Nov-20,2,mulutu,2,4,4,4,0,0,0
+324,female,Apr-20,2,matinyani,2,4,4,4,1,1,0
+325,male,Apr-20,2,mulutu,2,4,4,4,1,1,0
+326,female,Mar-20,1,kyambusya,2,4,4,4,1,1,0
+327,female,Aug-20,1,kyambusya,2,4,4,4,0,0,0
+328,male,Dec-20,2,syongila,2,4,4,4,0,0,0
+329,male,Dec-20,2,kakuma,2,4,4,4,0,0,0
+330,female,Jan-21,1,kwa vonza,1,0,0,0,0,0,0
+331,female,Jan-21,1,matinyani,2,4,0,0,0,0,0
+332,male,Jul-19,2,kwa mulungu,0,0,0,0,0,1,1
+333,female,Jan-21,2,unyaa,1,0,0,0,0,0,0
+334,female,Dec-20,2,kwa vonza,2,4,4,4,0,1,1
+335,male,Apr-20,2,kwa vonza,2,4,4,4,1,1,0
+336,female,Jan-21,2,kwa vonza,2,4,4,4,0,0,0
+337,male,Jan-21,2,mulutu,2,4,4,4,1,1,1
+338,male,Jan-21,2,kwa vonza,2,4,0,0,0,0,0
+339,female,Dec-20,2,kwa vonza,2,4,4,0,0,0,0
+340,female,Dec-20,2,matinyani,1,4,4,0,0,0,0
+341,male,Nov-20,2,kwa mulungu,2,4,4,4,0,0,0
+342,female,Dec-20,2,kalimbevo,2,4,4,0,0,0,0
+343,male,Dec-20,2,syokithumbi,1,4,4,4,0,0,0
+344,female,Feb-21,2,kwa mulungu,2,4,4,4,0,0,0
+345,female,Feb-21,2,kwa vonza,2,4,4,4,0,0,0
+346,female,Feb-21,2,ndumoni,2,0,0,0,0,0,0
+347,female,Feb-21,1,syongila,2,4,4,4,1,1,1
+348,female,Dec-20,2,matinyani,2,4,4,4,0,0,0
+349,male,Dec-20,2,mulutu,2,4,0,0,0,0,0
+350,female,Feb-21,2,ngoleni,2,4,4,4,1,1,1
+351,male,Jan-21,1,matinyani,2,4,4,4,0,0,0
+352,male,Feb-21,2,kalundu,2,4,4,4,1,1,0
+353,female,Nov-20,2,mulutu,2,4,4,4,1,0,0
+354,male,Feb-21,1,kwa vonza,2,4,4,4,1,1,0
+355,male,Feb-21,2,kwa vonza,2,4,4,0,0,0,0
+356,female,Jan-21,2,mulutu,1,4,4,4,1,1,1
+357,female,Jan-21,1,kwa mulungu,2,4,4,0,0,0,0
+358,male,Jan-21,2,kwa vonza ,2,4,4,0,0,0,0
+359,male,Jan-21,2,kwa vonza,2,4,0,0,0,0,0
+360,male,Jan-21,2,kyamathyaka,2,4,4,0,0,0,0
+361,female,Feb-21,2,ngoleni,2,4,0,0,0,0,0
+362,female,May-20,1,kwa vonza,2,4,4,4,1,1,0
+363,male,Jan-21,1,kyamathyaka,2,4,4,0,0,0,0
+364,male,May-20,2,mulutu,2,4,4,4,1,1,0
+365,female,Dec-20,2,kalimani,2,4,4,0,0,0,0
+366,female,May-20,2,kalimani,2,4,4,4,1,1,0
+367,female,May-20,2,kwa vonza,2,4,4,4,1,1,0
+368,male,Apr-20,2,kwa vonza,2,4,4,4,0,1,0
+369,male,Jun-20,2,ndumoni,2,4,4,4,0,1,0
+370,male,Jan-21,1,ithiani,2,4,4,4,0,0,0
+371,female,Mar-21,2,syokithumbi,2,4,4,4,0,0,0
+372,male,Feb-21,2,kwa vonza,2,4,4,4,0,1,1
+373,male,Feb-21,2,unyaa,2,4,0,0,0,0,0
+374,female,Jan-21,1,kwa vonza,2,4,4,4,1,1,0
+375,female,Mar-21,2,kyamathyaka,2,4,4,4,1,1,1
+376,male,Jan-21,2,mulutu,0,4,4,0,0,0,0
+377,female,Mar-21,2,kaveta,2,0,0,0,0,0,0
+378,male,Feb-21,2,kalimani,2,4,4,0,0,0,0
+379,female,Feb-21,2,mulutu,2,4,4,4,0,0,0
+380,female,Jan-21,2,mulutu,0,4,4,4,1,0,0
+381,male,Feb-21,2,mulutu,2,4,4,4,1,1,1
+382,female,Feb-21,2,kakumi,2,4,4,4,1,1,0
+383,female,Feb-21,2,kyamathyaka,2,4,4,4,0,0,0
+384,male,Feb-21,1,kithunzi,2,4,4,4,0,0,0
+385,male,Jan-21,2,kwa vonza,2,4,4,0,0,0,0
+386,female,Jan-21,2,kabati,2,4,4,0,0,0,0
+387,male,Mar-21,2,mulutu,2,4,4,4,1,1,0
+388,female,Mar-21,2,mulutu,2,4,4,4,0,0,0
+389,male,Mar-21,2,syongila,2,4,4,4,0,0,0
+390,male,Feb-21,2,kwa vonza,2,4,4,4,1,1,1
+391,male,Mar-21,2,kiliko,2,4,4,4,1,1,1
+392,female,Mar-21,1,mulutu,2,0,0,0,0,0,0
+393,female,Mar-21,2,kalimbevo,2,4,4,4,1,1,0
+394,male,Mar-21,2,kyamathyaka,2,4,4,4,1,1,1
+395,male,Mar-21,2,ngengeka,2,4,4,0,0,0,0
+396,female,Feb-21,2,kalimbevo,2,4,4,4,1,1,1
+397,female,Mar-21,2,tanganyika,2,4,4,4,0,0,0
+398,female,Apr-21,2,unyaa,2,4,4,4,0,0,0
+399,male,Feb-21,1,kithunzi,2,4,4,4,1,1,1
+400,male,Apr-21,1,unyaa,2,4,0,0,0,0,0
+401,female,Feb-21,1,unyaa,2,4,4,4,0,1,1
+402,female,Feb-21,1,kwa vonza,2,4,4,0,0,0,0
+403,female,Feb-21,2,kwa vonza,2,4,4,4,0,0,0
+404,male,Mar-21,2, kwa vonza,2,4,0,0,0,0,0
+405,male,Apr-21,2,kwa vonza,2,4,4,4,0,0,0
+406,female,Mar-21,2,kwa vonza,2,4,4,4,0,1,0
+407,male,Mar-21,2,ndumoni,2,4,4,4,1,1,0
+408,female,Apr-21,2,kwa mulungu,2,4,4,0,0,0,0
+409,male,Mar-21,2,katyotheka,2,4,4,4,1,1,1
+410,female,Mar-21,2,kwa vonza,2,4,4,4,1,1,1
+411,male,Apr-21,2,kwa vonza,2,4,4,4,0,0,0
+412,female,Apr-21,1,kwa vonza,2,4,4,4,0,0,0
+413,female,Mar-21,2,kwa mulungu,2,4,0,0,0,0,0
+414,female,Apr-21,2,kwa vonza,2,4,4,4,0,0,0
+415,male,Apr-21,2,kithunzi,2,4,4,4,0,1,0
+416,female,Mar-21,2,kwa vonza,2,4,4,4,1,1,0
+417,female,Mar-21,1,kyamathyaka,2,4,4,4,0,1,0
+418,male,May-21,2,kwa vonza,2,4,4,4,1,1,1
+419,female,Apr-21,2,kithunzi,2,4,4,4,1,0,0
+420,female,May-21,2,kwa vonza,2,0,0,0,0,0,0
+421,male,Mar-21,2,kwa vonza,2,4,4,4,0,0,0
+422,female,Mar-21,2,kyamathyaka,2,4,4,4,1,1,0
+423,male,Feb-21,2,kwa vonza,2,4,4,0,0,0,0
+424,female,Mar-21,2,kyamathyaka,2,4,4,4,0,0,0
+425,male,May-21,2,mutomo,2,4,4,4,0,0,0
+426,male,Mar-21,1,mulutu,2,4,4,4,1,1,0
+427,male,Mar-21,1,mulutu,2,4,4,4,1,1,0
+428,male,Apr-21,2,mulutu,2,4,4,4,1,1,0
+429,male,Apr-21,2,kwa vonza ,2,4,4,4,0,0,0
+430,male,Apr-21,2,kwa vonza,2,4,4,4,1,1,0
+431,male,Apr-21,2,mulutu,2,4,0,0,0,0,0
+432,male,Apr-21,1,mulutu,2,4,4,4,0,0,0
+433,female,Apr-21,2,kithunzi,2,4,0,0,0,0,0
+434,male,Apr-21,2,mulutu,2,4,4,0,1,1,1
+435,male,Mar-21,2,mulutu,2,4,4,4,0,0,0
+436,male,Apr-21,2,ithiani,2,4,4,0,0,0,0
+437,male,Apr-21,2,mulutu,2,4,4,4,1,1,1
+438,female,Apr-21,2,kyamathyaka,2,4,4,4,0,0,0
+439,female,Apr-21,2,kwa vonza,2,4,0,0,0,0,0
+440,male,Apr-21,2,kwa vonza,2,4,4,4,1,1,0
+441,male,Apr-21,2,kyamathyaka,1,4,4,4,1,1,0
+442,male,May-21,2,kwa vonza,2,4,4,0,0,0,0
+443,female,Apr-21,2,kalundu,2,4,4,4,1,1,0
+444,female,Jun-21,1,syokithumbi,2,4,0,0,0,0,0
+445,male,Apr-21,1,unyaa,2,4,4,4,1,1,0
+446,male,Apr-21,1,kwa vonza,2,4,4,0,0,0,0
+447,female,Jun-21,1,kwa mulungu,2,4,4,4,0,0,0
+448,male,Apr-21,2,kwa vonza,2,4,4,4,0,1,1
+449,female,Apr-21,2,mulutu ,2,4,4,4,1,1,0
+450,female,Apr-21,1,mulutu,2,4,4,4,1,1,1
+451,female,Jun-21,2,unyaa,2,4,4,0,0,0,0
+452,male,Jun-21,2,kyamathyaka,2,4,4,0,0,0,0
+453,female,Jun-21,2,kakumi,2,4,4,4,0,0,0
+454,male,May-21,2,kwa vonza,2,4,4,4,0,0,0
+455,female,May-21,2,kwa vonza,2,4,4,0,0,0,0
+456,female,May-21,2,kwa vonza,2,4,4,4,1,1,0
+457,male,May-21,2,kwa masese,2,4,4,4,0,0,0
+458,female,May-21,2,syongila,2,4,4,4,1,1,0
+459,female,Apr-21,1,kyamathyaka,2,4,4,0,0,0,0
+460,female,May-21,2,kwa vonza,2,4,0,0,0,0,0
+461,female,May-21,2,kwa vonza,2,4,0,0,0,0,0
+462,female,May-21,2,tanganyika,2,4,0,0,0,0,0
+463,male,Jun-21,2,mulutu,2,4,4,0,0,1,0
+464,male,May-21,2,kwa vonza,2,4,4,4,1,1,0
+465,male,May-21,2,kwa vonza,2,4,4,4,0,0,0
+466,female,May-21,1,kwa vonza,2,4,0,0,0,0,0
+467,female,Jun-21,1,mulutu,2,4,4,4,1,1,1
+468,male,May-21,2,mulutu,2,4,4,4,1,0,0
+469,male,May-21,2,kwa vonza,2,4,4,0,0,0,0
+470,male,May-21,2,kyua,2,4,0,0,0,0,0
+471,female,Jul-21,2,ithiani,2,4,4,4,1,1,1
+472,female,May-21,2,kyamathyaka,2,4,4,4,1,1,1
+473,female,May-21,1,unyaa,2,4,4,4,0,0,0
+474,female,May-21,2,kwa vonza,2,4,4,0,0,0,0
+475,male,Jun-21,2,kwa vonza,2,4,4,4,1,1,0
+476,female,May-21,2,kwa vonza,2,4,0,0,0,0,0
+477,male,May-21,2,kwa vonza,2,4,0,0,0,0,0
+478,male,Jun-21,2,mulutu,2,4,0,0,0,0,0
+479,female,Aug-21,2,tanganyika,2,4,4,4,0,1,0
+480,male,Jun-21,2,matinyani,2,4,4,4,1,1,0
+481,male,Jun-21,2,mulutu,2,4,4,4,0,0,0
+482,male,Jun-21,2,kwa masese,2,4,4,4,0,0,0
+483,male,Jun-21,1,mulutu,2,4,4,4,1,1,1
+484,female,Aug-21,2,mulutu,1,4,4,0,0,1,0
+485,female,Jun-21,2,kwa mulungu,2,4,4,0,0,0,0
+486,male,Jun-21,2,tanganyika,2,4,4,4,1,1,1
+487,female,Jun-21,1,kwa vonza,2,4,4,0,0,0,0
+488,female,Jun-21,2,mulutu,2,4,4,4,0,1,1
+489,male,Jun-21,2,kwa vonza,2,4,4,4,1,1,1
+490,male,Jul-21,1,kwa vonza,2,4,4,4,0,1,0
+491,female,May-21,2,kwa vonza,2,4,4,4,1,1,0
+492,male,Jul-21,2,mulutu,2,4,4,4,0,0,0
+493,male,Jul-21,2,mulutu,2,4,4,4,1,0,1
+494,male,Aug-21,2,mulutu,2,4,4,4,0,1,0
+495,male,Jul-21,2,kwa vonza,2,4,4,4,0,1,0
+496,male,Jul-21,2,kwa vonza,2,4,0,0,0,0,0
+497,female,Jul-21,2,kwa vonza,2,4,4,4,0,1,1
+498,female,Jul-21,2,mulutu,2,4,4,4,0,1,0
+499,male,Jul-21,2,kyamathyaka,2,4,4,0,0,0,0
+500,male,Jun-21,2,kwa vonza,2,4,4,0,0,0,0
+501,female,Aug-21,2,mulutu,2,4,4,4,0,1,0
+502,female,Jul-21,2,ndumoni,2,4,0,0,0,0,0
+503,male,Jun-21,1,kwa vonza,2,4,4,4,0,0,0
+504,male,Jul-21,1,syongila,2,4,0,0,0,1,1
+505,female,Jul-21,1,kwa vonza,2,4,4,4,0,1,0
+506,female,Aug-21,2,mulutu,2,4,4,0,0,0,0
+507,female,Jul-21,1,mulutu,2,4,4,4,0,0,0
+508,female,Sep-21,2,kwa vonza,2,4,4,4,0,0,0
+509,female,Aug-21,1,kwa vonza,2,4,4,4,0,1,0
+510,male,Jul-21,2,kwa vonza,2,4,4,4,0,1,1
+511,male,Jul-21,2,mulutu,2,4,4,4,0,1,1
+512,male,Sep-21,2,kalundu,2,4,4,4,1,1,0
+513,male,Aug-21,2,kyamatyhaka,2,4,4,0,0,0,0
+514,female,Sep-21,2,kyamathyaka,2,4,4,4,0,0,0
+515,female,Jul-21,2,kwa vonza,2,4,4,4,1,1,0
+516,male,Jul-21,2,kwa mulungu,2,4,4,4,0,0,0
+517,male,-,1,syongila,2,4,0,0,0,0,0
+518,female,Aug-21,2,matinyani,2,4,4,4,0,0,0
+519,female,Sep-21,1,mulutu,2,4,4,0,0,0,0
+520,female,Sep-21,1,kwa vonza,2,4,0,0,0,1,0
+521,male,Aug-21,2,kwa vonza,1,4,4,4,0,0,0
+522,male,Aug-21,1,kwa vonza,2,4,0,0,0,1,0
+523,female,Aug-21,2,mulutu,2,4,0,0,0,0,0
+524,female,Aug-21,2,syongila,2,4,4,3,0,0,0
+525,female,Jul-21,2,kwa vonza,2,4,4,0,0,0,0
+526,male,Sep-21,1,mulutu,1,4,4,0,0,0,0
+527,male,Aug-21,2,mulutu,2,4,4,0,0,0,0
+528,male,Aug-21,2,kwa vonza,2,4,4,0,0,0,0
+529,male,Sep-21,2,kwa vonza,2,4,4,4,0,1,0
+530,female,Aug-21,2,kwa masese,2,4,4,4,0,0,0
+531,female,Sep-21,1,mulutu,2,0,0,0,0,0,0
+532,female,Aug-21,2,syokithumbi,2,4,0,0,0,0,0
+533,male,Jul-21,2,mulutu,2,4,4,4,0,1,0
+534,female,Aug-21,2,unyaa,2,4,0,0,0,0,0
+535,male,Aug-21,2,kwa vonza,2,4,4,0,0,1,0
+536,female,Aug-21,2,mulutu,0,4,4,4,0,0,0
+537,male,Aug-21,1,kithunzi,2,4,4,4,1,1,0
+538,male,Oct-21,2,mulutu,2,4,4,4,0,0,0
+539,female,Sep-21,2,mulutu,2,4,4,4,0,1,0
+540,female,Oct-21,1,kalundu,2,4,4,4,0,1,0
+541,female,Oct-21,2,kithunzi,1,4,0,0,0,0,0
+542,female,Oct-21,2,kwa vonza,2,4,0,0,0,0,0
+543,female,Sep-21,2,mulutu,2,4,4,4,1,1,0
+544,male,Oct-21,2,ithiani,1,4,0,0,0,0,0
+545,female,Aug-21,2,kwa vonza,2,4,0,0,0,0,0
+546,female,Oct-21,2,kwa vonza,2,4,4,0,0,1,0
+547,male,Oct-21,2,kwa vonza,2,4,4,4,0,0,0
+548,female,Sep-21,2,ndumoni,2,4,4,4,0,0,0
+549,female,Sep-21,1,kwa mulungu,2,4,4,4,0,0,0
+550,female,Sep-21,2,tiva,1,4,4,4,0,0,0
+551,male,Sep-21,2,ithiani,2,4,4,4,1,1,0
+552,male,Oct-21,2,mulutu,2,4,4,0,0,1,0
+553,male,Sep-21,1,kathivo,2,4,4,4,0,1,0
+554,female,Sep-21,2,kalundu,2,4,4,4,0,1,0
+555,female,Oct-21,2,mulutu,2,0,0,0,0,0,0
+556,female,Sep-21,2,kwa vonza,2,4,4,4,0,1,0
+557,male,Oct-21,1,mulutu,2,4,4,0,0,0,0
+558,male,Sep-21,2,kithunzi,2,4,4,4,1,1,0
+559,male,Sep-21,2,kwa vonza,2,4,0,0,0,0,0
+560,male,Sep-21,2,kwa vonza,2,4,4,4,0,1,0
+561,male,Sep-21,2,kwa vonza,2,4,4,0,0,0,0
+562,male,Nov-21,2,mulutu,2,4,4,4,1,1,1
+563,male,Sep-21,2,ndumoni,2,4,4,0,0,0,0
+564,female,Sep-21,2,kwa vonza,2,4,4,0,0,0,0
+565,female,Oct-21,2,kaveta,2,4,4,4,1,1,1
+566,male,Oct-21,2,kwa mulungu,2,4,4,0,0,0,0
+567,male,Oct-21,2,kwa vonza,2,4,4,4,0,0,0
+568,male,Oct-21,1,kwa vonza,2,4,4,4,0,0,0
+569,male,Oct-21,2,kwa vonza,2,4,0,0,0,0,0
+570,female,Oct-21,2,kwa vonza,2,4,4,0,0,0,0
+571,female,Oct-21,2,kwa vonza,2,4,4,4,0,1,0
+572,male,Oct-21,2,ndumoni,2,4,4,4,1,1,0
+573,female,Nov-21,2,kwa vonza,2,4,4,4,1,1,1
+574,male,Oct-21,2,kwa vonza,2,4,4,4,0,1,0
+575,male,Sep-21,1,tungutu,2,4,4,4,0,1,0
+576,female,Oct-21,1,kwa vonza,2,4,4,4,0,0,0
+577,female,Nov-21,1,matinyani,2,4,4,4,0,0,0
+578,male,Oct-21,2,kwa vonza,2,4,4,4,0,0,0
+579,male,Nov-21,2,mulutu,2,4,4,4,1,1,1
+580,female,Oct-21,1,kwa vonza,2,4,0,0,0,0,0
+581,female,Oct-21,2,kwa vonza,2,4,0,0,0,0,0
+582,male,Dec-21,2,kwa vonza,2,4,4,4,0,0,0
+583,male,Dec-21,2,kwa vonza,2,0,0,0,0,0,0
+584,female,Dec-21,2,mulutu,2,4,4,4,1,1,0
+585,female,Dec-21,2,mulutu,2,4,4,0,0,0,0
+586,male,Dec-21,2,mulutu,2,4,4,4,1,1,1
+587,male,Nov-21,2,kwa vonza,2,4,0,0,0,0,0
+588,female,Nov-21,1,kwa vonza,1,4,4,4,0,0,0
+589,male,Dec-21,2,mulutu,2,0,4,0,0,0,0
+590,male,Nov-21,2,kwa vonza,2,4,4,4,0,0,0
+591,female,Nov-21,2,ndumoni,2,4,0,0,0,0,0
+592,female,Nov-21,2,mulutu,2,4,4,0,0,0,0
+593,female,Nov-21,2,kithunzi,2,4,4,4,0,1,0
+594,female,Dec-21,2,kyamathyaka,2,4,4,4,0,0,0
+595,male,Nov-21,2,mulutu,2,4,4,0,0,0,0
+596,female,Nov-21,2,kwa vonza,2,4,4,4,0,1,0
+597,male,Nov-21,2,mulutu,2,4,4,4,1,1,0
+598,female,Jan-22,2,kwa vonza,2,4,0,0,0,0,0
+599,male,Nov-21,2,mulutu,2,4,4,4,1,1,1
+600,male,Nov-21,2,mulutu,2,4,0,0,0,0,0
+601,male,Jan-22,2,itotheka,2,4,4,4,1,1,1
+602,female,Nov-21,2,kwa vonza,2,4,4,4,0,0,0
+603,male,Dec-21,2,kwa vonza,2,4,4,4,1,1,1
+604,female,Jan-22,2,kwa vonza ,2,4,4,3,0,0,0
+605,female,Jan-22,2,kwa vonza,2,4,4,0,0,0,0
+606,male,-,-,mulutu,0,4,0,0,0,0,0
+607,female,Jan-22,2,kwa vonza,2,4,4,4,1,1,1
+608,female,Dec-21,2,kwa vonza,2,4,4,4,1,1,0
+609,male,Jan-22,2,matinyani,2,4,4,4,0,0,0
+610,female,Dec-21,2,ndumoni,2,4,4,0,0,0,0
+611,female,Jan-22,2,kwa vonza,2,4,4,4,0,1,0
+612,female,Dec-21,2,matinyani,2,4,4,4,0,1,1
+613,female,Nov-21,2,unyaa,2,4,4,4,1,1,0
+614,female,Dec-21,2,kithunzi,2,4,4,4,1,1,0
+615,male,Dec-21,2,ndumoni,2,4,4,4,0,0,0
+616,male,Dec-21,2,kithunzi,2,4,0,0,0,0,0
+617,female,Jan-22,2,kwa vonza,2,4,0,0,0,0,0
+618,male,Nov-21,2,unyaa,2,4,4,4,0,1,0
+619,male,Jan-22,2,mulutu,2,4,0,0,0,0,0
+620,female,Dec-21,2,kwa vonza,2,4,4,4,1,1,0
+621,male,Dec-21,2,mulutu,2,4,4,4,0,1,1
+622,male,Jan-22,1,mulutu,2,4,4,4,1,1,1
+623,female,Dec-21,2,kalundu,2,4,4,4,0,0,0
+624,male,Jan-22,2,unyaa,2,4,4,4,1,1,1
+625,female,Dec-21,2,kwa vonza,2,4,4,4,1,1,0
+626,male,Dec-21,2,tanganyika,2,4,0,0,0,0,0
+627,female,Feb-22,2,mulutu,2,4,4,4,1,1,0
+628,male,Feb-22,2,mulutu,2,4,4,4,1,1,0
+629,male,Jan-22,2,ndumoni,2,4,4,0,0,0,0
+630,male,Feb-22,2,kwa mulungu,2,4,4,3,0,0,0
+631,male,Jan-22,2,kalundu,2,4,4,0,1,1,0
+632,female,Jan-22,1,kwa vonza,0,4,4,4,1,1,0
+633,male,Dec-21,2,kwa vonza,2,4,4,4,0,0,0
+634,male,Nov-21,2,mulutu,2,4,4,4,0,0,0
+635,male,Feb-22,2,kalundu,2,2,3,3,0,0,0
+636,female,Jan-22,2,ngoleni,2,4,4,0,0,0,0
+637,male,Jan-22,2,kwa vonza,2,4,4,4,1,1,0
+638,male,Feb-22,1,kwa vonza,2,4,4,4,0,0,0
+639,male,Jan-22,2,kwa vonza,2,4,4,3,0,0,0
+640,female,Feb-22,2,kwa mulungu,2,4,4,3,0,0,0
+641,female,Feb-22,2,tiva,2,4,0,0,0,0,0
+642,female,Jan-22,2,kwa vonza,2,4,4,4,0,0,0
+643,male,Feb-22,2,kwa vonza,2,4,4,4,1,1,0
+644,female,Feb-22,2,mulutu,2,4,4,4,0,0,0
+645,male,Feb-22,2,kwa vonza,2,4,4,0,0,1,0
+646,male,Jan-22,2,tanganyika,2,4,4,4,1,1,1
+647,male,Dec-21,1,unyaa,2,4,4,4,0,0,0
+648,male,Jan-22,2,kwa vonza,2,4,0,0,0,0,0
+649,female,Jan-22,2,kwa vonza,2,4,4,0,0,0,0
+650,male,Feb-22,2,kwa vonza,2,4,4,4,0,0,0
+651,male,Jan-22,2,tanganyika,2,4,4,3,1,1,0
+652,female,Jan-22,2,kalundu,2,4,4,4,1,1,0
+653,male,Mar-22,2,itoleka,2,4,4,4,1,1,0
+654,female,Feb-22,2,kithunzi,2,4,4,4,1,1,1
+655,male,Jan-22,2,kakumi,2,4,4,3,1,1,1
+656,female,Feb-22,2,mulutu,2,4,0,0,0,0,0
+657,female,Mar-22,2,tiva,2,4,4,4,0,1,0
+658,male,Mar-22,2,unyaa,2,4,4,4,1,1,1
+659,female,Feb-22,2,kwa vonza,2,4,4,3,1,1,0
+660,male,Feb-22,1,kwa vonza,2,4,4,3,0,0,0
+661,male,Mar-22,2,kwa vonza,2,0,0,0,0,0,0
+662,male,Feb-22,2,mulutu,2,4,4,4,1,1,0
+663,male,Feb-22,2,mulutu,2,4,4,4,0,1,0
+664,female,Mar-22,2,unyaa,2,4,4,4,0,1,0
+665,female,Feb-22,2,kwa vonza,2,4,4,4,0,1,1
+666,male,Feb-22,2,kyamathyaka,2,4,0,0,0,0,0
+667,male,Feb-22,2,ithookwe,2,4,4,4,1,1,0
+668,male,Feb-22,2,ndumoni,2,4,4,4,1,1,0
+669,male,Apr-22,2,mulutu,2,4,3,2,0,0,0
+670,female,Feb-22,2,mulutu,2,4,4,4,1,1,0
+671,female,Feb-22,2,kwa mulungu,2,4,4,4,1,1,1
+672,female,Mar-22,2,mulutu,2,4,4,3,0,0,0
+673,male,Apr-22,1,,2,0,0,0,0,0,0
+674,male,Feb-22,2,ngakuni,2,4,4,4,1,1,0
+675,female,Apr-22,2,kwa vonza,2,4,4,4,0,1,1
+676,male,Feb-22,2,kwa vonza,2,4,4,4,0,0,0
+677,male,Feb-22,2,mulutu,2,4,4,4,0,1,1
+678,female,Apr-22,1,kithunzi,2,4,4,4,1,0,0
+679,male,Mar-22,1,kwa vonza,2,4,0,0,0,0,0
+680,female,Mar-22,2,mulutu,0,4,4,4,1,0,0
+681,female,Apr-22,1,mulutu,2,0,0,0,0,0,0
+682,male,Apr-22,1,kwa vonza,0,4,4,4,0,0,0
+683,male,Apr-22,2,kwa vonza,2,4,4,4,0,1,0
+684,male,Mar-22,2,mulutu,0,4,4,4,1,1,1
+685,male,Feb-22,2,kwa vonza,0,4,0,0,0,0,0
+686,female,Feb-21,1,kakumi,0,0,0,3,0,0,0
+687,female,Mar-22,1,mulutu,2,4,4,4,0,1,0
+688,female,Mar-22,2,mulutu,2,4,4,4,1,1,0
+689,female,Mar-22,2,kakumi,2,4,4,4,1,1,0
+690,male,Mar-22,2,kwa vonza,2,4,3,3,1,1,0
+691,female,Mar-22,2,kwa vonza,2,4,3,4,1,1,0
+692,male,Mar-22,2,kalimani,2,4,3,3,1,1,1
+693,male,Mar-22,2,mulutu,2,4,4,4,1,1,0
+694,female,Mar-22,2,tungutu,2,4,3,3,0,1,0
+695,male,Feb-22,2,mulutu,2,4,4,4,1,1,0
+696,male,Mar-22,2,syongila,2,4,3,4,0,0,0
+697,female,Mar-22,2,kalimani,2,4,0,0,0,0,0
+698,male,Apr-22,2,ngoleni,2,4,4,4,0,0,0
+699,male,May-22,2,mulutu,1,3,4,4,0,0,0
+700,male,Apr-22,2,kwa vonza,2,3,0,0,0,0,0
+701,female,Apr-22,1,kwa vonza,2,3,3,4,1,1,1
+702,female,Apr-22,2,kwa vonza,2,3,3,4,1,1,0
+703,male,Apr-22,2,mulutu,2,3,3,4,1,1,0
+704,male,Apr-22,2,mulutu,2,3,4,4,1,1,0
+705,female,Apr-22,2,kwa mulungu,2,3,3,4,0,0,0
+706,female,May-22,1,nyumbani,2,0,0,0,0,0,0
+707,male,Mar-22,2,unyaa,2,4,4,4,0,0,0
+708,male,May-22,2,kwa vonza,1,4,4,4,0,1,0
+709,female,Apr-22,1,kakumi,2,3,3,0,0,0,0
+710,male,May-22,1,unyaa,2,4,4,4,0,1,0
+711,female,Jun-22,2,matinyani,2,4,4,4,0,1,1
+712,male,Apr-22,2,mulutu,2,4,4,4,0,0,0
+713,female,May-22,1,mulutu,2,4,4,4,0,1,0
+714,male,Jun-22,2,mulutu,2,4,4,4,1,1,0
+715,female,May-22,2,mulutu,2,4,4,4,0,0,0
+716,female,Jun-22,1,syongila,2,0,0,0,0,0,0
+717,female,Jun-22,2,kwa vonza,2,4,4,0,0,0,0
+718,male,Jun-22,2,kwa vonza,2,4,4,4,1,1,1
+719,male,Apr-22,2,mulutu,2,4,4,4,1,1,1
+720,male,May-22,2,mathunzini,2,4,4,4,0,0,0
+721,male,Jun-22,2,kalulini,2,4,4,0,0,0,0
+722,male,May-22,2,mulutu,2,4,0,0,0,0,0
+723,female,May-22,2,mulutu,2,4,4,4,1,1,0
+724,female,May-22,1,kitui,2,4,4,4,1,1,1
+725,male,May-22,2,matinyani,2,4,4,0,0,0,0
+726,female,May-22,2,kwa vonza,2,4,0,0,0,0,0
+727,male,Jul-22,2,kalimbevo,2,4,4,4,0,0,0
+728,male,Jul-22,1,kwa masese,2,4,4,4,0,1,0
+729,female,May-22,2,kalimani,2,4,4,0,0,0,0
+730,male,May-22,1,kwa vonza,2,4,4,4,0,0,0
+731,male,May-22,2,kalimani,2,4,4,0,0,0,0
+732,male,Apr-22,1,mulutu,0,4,0,0,0,0,0
+733,female,Jun-22,2,kwa vonza,2,4,3,4,0,0,0
+734,female,Jul-22,2,kwa vonza,2,4,3,4,0,0,0
+735,female,Jun-22,2,mulutu,2,4,4,4,0,0,0
+736,female,Jul-22,1,ndumoni,2,4,3,4,0,0,0
+737,female,May-22,2,kwa vonza,2,4,0,0,0,0,0
+738,female,Jun-22,2,ndumoni,2,4,4,4,1,1,0
+739,female,Jul-22,2,kyamathyaka,2,4,4,4,0,1,0
+740,male,Jun-22,2,mulutu,2,4,4,4,0,1,0
+741,female,Jul-22,2,ngakuni,2,4,4,0,0,0,0
+742,female,Jul-22,2,tungutu,2,4,4,4,1,1,0
+743,female,Jun-22,2,kakumi,2,4,4,4,1,1,1
+744,female,Jun-22,2,mulutu,2,4,4,4,1,1,1
+745,female,Aug-22,2,mulutu,2,4,4,4,1,1,1
+746,female,Aug-22,2,kwa vonza,2,4,4,0,0,0,0
+747,female,Jun-22,2,ndumoni,2,4,0,0,0,0,0
+748,female,Jun-22,2,kwa vonza,2,4,0,0,0,0,0
+749,female,Jun-22,2,mulutu,2,4,4,4,0,0,0
+750,female,Jul-22,2,kwa vonza,2,4,0,0,0,0,0
+751,female,Jul-22,2,kitui,2,4,0,0,0,0,0
+752,female,Aug-22,1,mulutu,2,4,4,4,1,1,0
+753,male,Jul-22,2,kyamathyaka,2,4,4,0,0,0,0
+754,female,Aug-22,1,kwa vonza,2,4,4,4,0,1,0
+755,male,Jul-22,1,mulutu,2,4,4,4,0,0,0
+756,male,Aug-22,2,kwa vonza,2,4,4,4,1,1,0
+757,female,Jul-22,1,kwa vonza,2,4,4,4,1,1,0
+758,female,Jul-22,2,kyamathyaka,2,4,4,4,1,1,1
+759,male,Aug-22,2,kalimani,2,4,4,4,0,0,0
+760,female,Jul-22,2,mulutu,2,4,4,4,1,0,0
+761,male,Aug-22,2,mulutu,2,0,0,0,0,0,0
+762,male,Aug-22,2,mulutu,2,4,0,0,0,0,0
+763,female,Jul-22,2,mulutu,2,4,0,0,0,0,0
+764,female,Jul-22,1,kwa vonza,1,4,0,0,0,0,0
+765,male,Jul-22,1,kwa vonza,2,4,4,0,0,0,0
+766,male,Jul-22,2,kwa vonza,2,4,4,0,0,0,0
+767,male,Sep-22,2,kyamathyaka,2,4,4,4,0,0,0
+768,male,Jul-22,2,mathunzini,2,4,4,4,1,1,1
+769,male,Jul-22,2,kalimbevo,2,4,4,4,0,1,1
+770,female,Aug-22,2,mulutu,2,4,4,4,1,1,0
+771,female,Sep-22,2,kalimani,2,4,4,4,0,0,0
+772,female,Aug-22,1,kwa vonza,2,4,3,1,1,1,0
+773,male,Jul-22,2,mulutu,2,4,4,4,0,1,0
+774,female,Aug-22,2,ndumoni,2,4,4,4,1,1,0
+775,female,Jul-22,2,kalimani,2,0,0,0,0,0,0
+776,male,Jul-22,2,kalimani,2,0,0,0,0,0,0
+777,male,Aug-22,1,mulutu,2,4,4,4,0,1,1
+778,male,Sep-22,2,matinyani,2,4,4,4,1,1,0
+779,male,Sep-22,2,itoleka,2,3,0,0,0,0,0
+780,male,Sep-22,2,kwa vonza,2,4,4,0,0,0,0
+781,female,Aug-22,2,kyamathyaka,2,4,0,0,0,0,0
+782,male,Aug-22,2,mulutu,2,4,4,4,0,0,0
+783,female,Aug-22,2,mulutu,2,4,4,0,0,0,0
+784,male,Aug-22,2,mulutu,2,4,4,4,0,0,0
+785,female,Aug-22,2,mulutu,2,4,4,4,1,1,1
+786,female,Aug-22,2,kyamathyaka,2,4,4,4,1,1,0
+787,male,Oct-22,1,ndumoni,2,4,4,4,1,1,1
+788,female,Oct-22,1,tanganyika,2,4,4,4,0,0,0
+789,female,Aug-22,2,kalimani,2,4,4,4,1,1,1
+790,female,Sep-22,2,syongila,2,4,4,4,0,0,0
+791,male,Oct-22,2,kwa vonza,1,0,0,0,0,0,0
+792,female,Aug-22,1,mulutu,2,4,4,4,1,1,0
+793,male,Sep-22,2,mulutu,2,4,4,4,1,1,1
+794,male,Sep-22,2,kalimani,2,4,4,4,0,0,0
+795,female,Oct-22,2,mulutu,1,4,4,4,0,0,0
+796,male,Sep-22,2,kwa vonza,2,4,4,4,1,1,0
+797,male,Nov-22,2,kwa vonza,1,4,4,0,0,0,0
+798,female,Sep-22,2,ngakuni,1,4,4,4,1,1,1
+799,male,Nov-22,2,kwa mulungu,1,4,4,4,1,1,0
+800,male,Sep-22,1,ndumoni,1,4,4,4,1,1,0
+801,female,Sep-22,2,mulutu,1,4,0,0,1,1,0
+802,female,Sep-22,2,unyaa,2,4,4,4,0,0,0
+803,female,Sep-22,1,kwa mulungu,2,4,4,4,1,1,0
+804,female,Nov-22,2,manzi itumo,2,4,4,4,0,1,0
+805,male,Nov-22,1,itoleka,2,0,0,0,0,0,0
+806,female,Oct-22,1,kyamathyaka,2,4,4,4,1,1,0
+807,male,Nov-22,2,kyamathyaka,2,4,4,4,0,1,1
+808,male,Oct-22,2,ngakuni,2,4,4,4,1,1,1
+809,female,Oct-22,2,tanganyika,2,4,4,4,1,1,0
+810,male,Oct-22,2,kyamathyaka,2,4,0,0,0,0,0
+811,male,Nov-22,2,ngakuni,2,4,4,4,0,0,1
+812,female,Oct-22,2,tungutu,2,4,4,4,1,1,0
+813,male,Oct-22,1,kwa vonza ,2,4,4,4,0,0,0
+814,female,Oct-22,2,kwa vonza,2,4,4,4,0,0,0
+815,male,Oct-22,2,tungutu,2,4,4,4,0,1,0
+816,female,Nov-22,2,mulutu,1,0,0,0,0,0,0
+817,female,Oct-22,2,ngakuni,0,4,4,4,0,0,0
+818,male,Nov-22,2,mulutu,2,4,4,0,0,0,0
+819,male,Oct-22,2,kwa vonza,2,4,0,0,0,0,0
+820,male,Oct-22,2,kalimani,2,4,4,4,1,1,1
+821,female,Sep-22,1,ngakuni,2,4,4,0,0,1,0
+822,female,Oct-22,2,mulutu,2,4,4,2,0,0,1
+823,male,Dec-22,2,mulutu,2,4,4,0,0,0,0
+824,female,Nov-22,2,kyamathyaka,2,4,3,0,0,0,0
+825,female,Oct-22,2,kalimani,2,4,0,0,0,0,0
+826,female,Nov-22,2,mulutu,2,4,4,4,1,1,0
+827,male,Nov-22,1,kwa kyenza,2,4,0,0,0,0,0
+828,male,Nov-22,2,kwa vonza,2,4,0,0,0,0,0
+829,female,Dec-22,2,ithiani,2,0,0,0,0,0,0
+830,male,Nov-22,2,ndumoni,2,4,4,4,0,1,0
+831,female,Nov-22,2,kalimani,2,4,4,4,1,1,0
+832,male,Nov-22,2,kwa vonza,2,4,4,4,0,0,0
+833,male,Nov-22,2,kwa vonza,2,4,4,4,0,0,0
+834,female,Nov-22,2,ndumoni,2,4,3,0,0,0,0
+835,female,Jan-23,1,kwa vonza,2,4,4,4,0,0,0
+836,male,Jan-23,2,matinyani,2,4,4,4,0,0,0
+837,female,Jan-23,2,kwa vonza,2,4,4,4,0,0,0
+838,female,Nov-22,2,kwa vonza,2,4,0,0,0,0,0
+839,female,Nov-22,2,kwa vonza,2,4,0,0,0,0,0
+840,male,Jan-23,1,tanganyika,2,4,4,4,0,0,0
+841,female,Jan-23,2,mulutu,2,4,4,4,1,1,0
+842,male,Nov-22,2,kwa vonza,2,4,4,0,0,0,0
+843,female,Nov-22,2,kwa vonza,2,4,4,4,1,1,0
+844,female,Nov-22,2,mulutu,2,4,4,4,1,0,0
+845,male,Jan-23,2,ngakuni,2,0,0,0,0,0,0
+846,male,Dec-22,2,mulutu,2,4,4,4,0,1,1
+847,male,Jan-23,2,mulutu,2,4,0,0,0,0,0
+848,male,Jan-23,1,mulutu,2,4,4,4,1,1,1
+849,male,Dec-22,2,itoleka,2,4,4,4,1,1,0
+850,female,Dec-22,2,ndumoni,2,4,4,4,1,0,0
+851,female,Dec-22,2,mulutu,2,4,4,4,1,1,0
+852,female,Dec-22,1,ngakuni,2,4,4,4,1,1,0
+853,female,Nov-22,2,kavuta,2,4,4,0,0,0,0
+854,female,Dec-22,2,ndumoni,2,4,4,4,0,0,0
+855,male,Jan-23,2,unyaa,2,4,4,4,0,0,0
+856,male,Dec-22,2,kwa mutonga ,2,4,0,0,0,0,0
+857,female,Feb-23,2,kwa vonza,1,0,0,0,0,0,0
+858,female,Dec-22,2,kwa vonza,2,4,0,0,0,0,0
+859,female,Dec-22,2,kwa vonza,2,4,4,4,1,1,1
+860,female,Feb-23,2,kwa vonza,2,4,4,4,0,0,0
+861,female,Dec-22,2,mulutu,2,4,4,4,0,0,0
+862,male,Jan-23,2,tanganyika,2,4,4,4,0,0,0
+863,female,Feb-23,1,ndumoni,2,4,4,4,1,1,0
+864,male,Feb-23,2,kwa vonza,2,0,0,0,0,0,0
+865,female,Feb-23,2,kwa vonza,2,4,4,4,0,0,0
+866,female,Jan-23,2,kwa vonza,2,4,4,4,1,1,0
+867,female,Jan-23,2,mulutu,2,4,4,4,0,0,0
+868,male,Feb-23,2,kwa vonza,2,0,0,0,0,0,0
+869,male,Jan-23,2,kwa vonza,2,4,0,0,0,0,0
+870,female,Jan-23,2,tiva,2,4,4,4,0,0,0
+871,male,Jan-23,2,kwa vonza ,0,4,4,3,0,1,0
+872,female,Feb-23,2,mulutu,2,4,4,4,0,0,0
+873,female,Jan-23,2,ndumoni,2,4,4,4,1,1,0
+874,female,Jan-23,1,kavuta,2,4,4,4,0,0,0
+875,female,Mar-23,2,kavuta,2,4,4,4,0,0,0
+876,female,Feb-23,1,kwa vonza,2,4,1,0,0,0,0
+877,female,Jan-23,1,kwa vonza,2,4,4,4,0,1,0
+878,female,Feb-23,2,mathunzini,2,4,0,0,0,0,0
+879,female,Feb-23,2,kwa vonza ,2,4,0,0,0,0,0
+880,female,Mar-23,2,kwa vonza ,2,4,4,4,1,1,1
